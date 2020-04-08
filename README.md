@@ -1,5 +1,5 @@
 # nlp-py-practice
-NLP Python assessments
+NLP Python practice
 
-Practice exercises from NLP - Natural Language Processing with Python at
+Practice exercises based on NLP - Natural Language Processing with Python at
 https://www.udemy.com/course/nlp-natural-language-processing-with-python/
